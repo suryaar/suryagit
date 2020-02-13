@@ -1,3 +1,0 @@
-# suryagit
-Code
-rer
